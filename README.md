@@ -1,4 +1,4 @@
-# Health Prediction System
+# Healthcare Prediction System
 
 ## Overview
 The Health Prediction System is a machine learning-based web application built using Streamlit. It helps users predict the likelihood of various diseases, including:
